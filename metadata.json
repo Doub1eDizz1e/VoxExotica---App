@@ -1,0 +1,6 @@
+{
+  "name": "VoxExotica - AI Voice Lab & Studio",
+  "description": "Transform text into exotic, non-human, robotic, and demonic voices with real-time DSP effects, pitch modulation, and MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
